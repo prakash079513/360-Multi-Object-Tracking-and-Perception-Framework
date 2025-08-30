@@ -1,0 +1,16 @@
+# requirements.txt
+torch
+torchvision
+torchaudio
+opencv-python-headless
+pandas
+supervision
+transformers
+numpy
+git+https://github.com/facebookresearch/segment-anything.git
+py360convert
+git+https://github.com/NVlabs/nvtorchcam.git
+scipy
+accelerate 
+einops
+hf_xet
